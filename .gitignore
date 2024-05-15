@@ -1,0 +1,7 @@
+*.o
+/lib/
+.DS_Store
+._.DS_Store
+/libdtype.*
+/benchmark
+/test
