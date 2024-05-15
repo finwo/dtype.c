@@ -5,3 +5,5 @@
 /libdtype.*
 /benchmark
 /test
+/.cache/
+/compile_commands.json
